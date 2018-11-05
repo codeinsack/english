@@ -1,2 +1,4 @@
-﻿-- don't take it too seriously (не воспринимайте это слишком серьезно)
+﻿copyright
+
+-- don't take it too seriously (не воспринимайте это слишком серьезно)
 -- i'm not sure if i fully understand your question (я не уверен, что полностью понимаю ваш вопрос)
